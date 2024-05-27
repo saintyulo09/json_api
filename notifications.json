@@ -1,122 +1,17 @@
-{
-  "employee": [
-    {
-      "emp_name": "Maria Luna",
-      "emp_no": "101700",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Maria Luna",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 28,
-      "address": "123 Main Street, City, Country"
-    },
-    {
-      "emp_name": "Jose Rizal",
-      "emp_no": "101701",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Jose Rizal",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 32,
-      "address": "456 Elm Street, City, Country"
-    },
-    {
-      "emp_name": "Heneral Luna",
-      "emp_no": "101702",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Heneral Luna",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 35,
-      "address": "789 Oak Street, City, Country"
-    },
-    {
-      "emp_name": "employee4",
-      "emp_no": "101703",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 4",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 29,
-      "address": "123 Pine Street, City, Country"
-    },
-    {
-      "emp_name": "employee5",
-      "emp_no": "101704",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 5",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 31,
-      "address": "456 Maple Street, City, Country"
-    },
-    {
-      "emp_name": "employee6",
-      "emp_no": "101705",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 6",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 33,
-      "address": "789 Cedar Street, City, Country"
-    },
-    {
-      "emp_name": "employee7",
-      "emp_no": "101706",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 7",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 27,
-      "address": "123 Birch Street, City, Country"
-    },
-    {
-      "emp_name": "employee8",
-      "emp_no": "101707",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 8",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 30,
-      "address": "456 Oak Street, City, Country"
-    },
-    {
-      "emp_name": "employee9",
-      "emp_no": "101708",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 9",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 34,
-      "address": "789 Pine Street, City, Country"
-    },
-    {
-      "emp_name": "employee10",
-      "emp_no": "101709",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 10",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 28,
-      "address": "123 Elm Street, City, Country"
-    },
-    {
-      "emp_name": "employee11",
-      "emp_no": "101710",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 11",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 32,
-      "address": "456 Oak Street, City, Country"
-    },
-    {
-      "emp_name": "employee12",
-      "emp_no": "101711",
-      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
-      "name": "Employee 12",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet felis quis elit mollis ullamcorper.",
-      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "age": 35,
-      "address": "789 Pine Street, City, Country"
-    },
+{"employee":[
+  {"emp_name":"Maria Luna","emp_no":"101700","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"Jose Rizal","emp_no":"101701","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"Heneral Luna","emp_no":"101702","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee4","emp_no":"101703","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee5","emp_no":"101704","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee6","emp_no":"101705","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee7","emp_no":"101706","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee8","emp_no":"101707","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee9","emp_no":"101708","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee10","emp_no":"101709","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee11","emp_no":"101710","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee12","emp_no":"101711","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee13","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee14","emp_no":"101713","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
+  {"emp_name":"employee15","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"}
+]}
