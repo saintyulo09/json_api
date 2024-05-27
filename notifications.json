@@ -1,17 +1,115 @@
-{"employee":[
-  {"emp_name":"Maria Luna","emp_no":"101700","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"Jose Rizal","emp_no":"101701","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"Heneral Luna","emp_no":"101702","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee4","emp_no":"101703","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee5","emp_no":"101704","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee6","emp_no":"101705","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee7","emp_no":"101706","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee8","emp_no":"101707","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee9","emp_no":"101708","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee10","emp_no":"101709","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee11","emp_no":"101710","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee12","emp_no":"101711","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee13","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee14","emp_no":"101713","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"},
-  {"emp_name":"employee15","emp_no":"101712","emp_img":"https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png"}
-]}
+{
+  "employee": [
+    {
+      "emp_name": "Maria Luna",
+      "emp_no": "101700",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Maria Luna",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 35,
+      "address": "123 Main Street, Cityville"
+    },
+    {
+      "emp_name": "Jose Rizal",
+      "emp_no": "101701",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Jose Rizal",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 40,
+      "address": "456 Elm Street, Townsville"
+    },
+    {
+      "emp_name": "Heneral Luna",
+      "emp_no": "101702",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Heneral Luna",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 38,
+      "address": "789 Oak Street, Villageton"
+    },
+    {
+      "emp_name": "employee4",
+      "emp_no": "101703",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Four",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 32,
+      "address": "321 Pine Street, Hamletown"
+    },
+    {
+      "emp_name": "employee5",
+      "emp_no": "101704",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Five",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 45,
+      "address": "654 Cedar Street, Villageville"
+    },
+    {
+      "emp_name": "employee6",
+      "emp_no": "101705",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Six",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 37,
+      "address": "987 Maple Street, Hamleton"
+    },
+    {
+      "emp_name": "employee7",
+      "emp_no": "101706",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Seven",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 29,
+      "address": "753 Birch Street, Villagetown"
+    },
+    {
+      "emp_name": "employee8",
+      "emp_no": "101707",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Eight",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 34,
+      "address": "852 Walnut Street, Cityton"
+    },
+    {
+      "emp_name": "employee9",
+      "emp_no": "101708",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Nine",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 41,
+      "address": "147 Oak Street, Villageville"
+    },
+    {
+      "emp_name": "employee10",
+      "emp_no": "101709",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Ten",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 39,
+      "address": "369 Cedar Street, Hamleton"
+    },
+    {
+      "emp_name": "employee11",
+      "emp_no": "101710",
+      "emp_img": "https://raw.githubusercontent.com/saintyulo09/json_api/main/chat.png",
+      "name": "Employee Eleven",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia. Sed eget posuere ipsum.",
+      "future_work": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut tortor id sapien ultrices lacinia.",
+      "age": 28,
+      "address": "963 Pine Street, Cityton"
+    },
+    {
+      "emp_name": "employee12",
+      "emp_no": "101711",
